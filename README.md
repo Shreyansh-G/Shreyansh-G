@@ -16,15 +16,22 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/your-handle"><!-- EDIT -->
+<!-- LinkedIn badge — paste your URL here, then uncomment:
+<a href="https://www.linkedin.com/in/YOUR-HANDLE">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+-->
 <a href="mailto:Shreyansh.2552@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20out-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/>
 </a>
-<a href="https://your-portfolio.com"><!-- EDIT -->
+<a href="https://github.com/Shreyansh-G">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<!-- Portfolio badge — paste your URL here, then uncomment:
+<a href="https://YOUR-PORTFOLIO.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+-->
 
 <br/><br/>
 
