@@ -166,11 +166,13 @@ A **gamified spatial experience** built in TypeScript — interactive, immersive
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh-G&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=4F46E5&fire=0EA5E9&currStreakLabel=4F46E5&sideLabels=475569&dates=94A3B8&currStreakNum=1E293B&sideNums=1E293B&dayLabels=475569" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Shreyansh-G&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=4F46E5&fire=0EA5E9&currStreakLabel=4F46E5&sideLabels=475569&dates=94A3B8&currStreakNum=1E293B&sideNums=1E293B&dayLabels=475569" alt="streak"/>
 
+<!-- Trophies temporarily disabled — github-profile-trophy is returning HTTP 402 (provider billing/rate limit), so it shows as a broken image.
+     Re-enable by uncommenting once the provider is back up:
 <br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Shreyansh-G&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+-->
 
 </div>
 
