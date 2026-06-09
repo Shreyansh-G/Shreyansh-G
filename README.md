@@ -1,17 +1,17 @@
 <!--
   ════════════════════════════════════════════════════════════════
   Shreyansh Gupta · GitHub Profile README
-  Palette: deep slate (#0d1117) · violet (#8B5CF6) · cyan (#22D3EE)
-  Replace the 3 links marked  <!-- EDIT -->  below, then commit.
+  Theme: LIGHT / professional — white cards · indigo (#4F46E5) · sky (#0EA5E9)
+  To add LinkedIn / Portfolio: fill the URL + uncomment the blocks near the top.
   ════════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5B21B6,100:0891B2&height=200&section=header&text=Shreyansh%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20·%20Machine%20Learning%20·%20Applied%20Deep%20Learning&descSize=18&descAlignY=60" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:818CF8,100:0EA5E9&height=200&section=header&text=Shreyansh%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Applied%20Deep%20Learning&descSize=18&descAlignY=60" alt="header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=AI+%2F+ML+Research+Engineer;Turning+research+ideas+into+shipped+systems;Deep+Learning+·+CNNs+·+NLP+·+Graph+Embeddings;Full-stack+builder+with+an+ML-first+mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=720&lines=AI+%2F+ML+Research+Engineer;Turning+research+ideas+into+shipped+systems;Deep+Learning+%7C+CNNs+%7C+NLP+%7C+Graph+ML;A+researcher+who+ships+%E2%80%94+not+just+publishes" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,22 +22,22 @@
 </a>
 -->
 <a href="mailto:Shreyansh.2552@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20out-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Reach%20out-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Shreyansh-G">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <!-- Portfolio badge — paste your URL here, then uncomment:
 <a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 -->
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shreyansh-G&label=Profile%20views&color=8B5CF6&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Research%20Engineering-22D3EE?style=flat-square" alt="focus"/>
-<img src="https://img.shields.io/badge/Based%20at-NIT%20Patna-0d1117?style=flat-square&labelColor=5B21B6" alt="location"/>
+<img src="https://komarev.com/ghpvc/?username=Shreyansh-G&label=Profile%20views&color=4F46E5&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/badge/Focus-AI%20Research%20Engineering-0EA5E9?style=flat" alt="focus"/>
+<img src="https://img.shields.io/badge/Based%20at-NIT%20Patna-6366F1?style=flat" alt="location"/>
 
 </div>
 
@@ -146,20 +146,31 @@ A **gamified spatial experience** built in TypeScript — interactive, immersive
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!-- Animated activity graph — the line draws itself in on load -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh-G&bg_color=ffffff&color=4F46E5&line=0EA5E9&point=4F46E5&area=true&area_color=C7D2FE&title_color=4F46E5&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20last%2030%20days" alt="activity graph"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyansh-G&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&icon_color=22D3EE" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-G&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" alt="top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyansh-G&show_icons=true&count_private=true&title_color=4F46E5&text_color=475569&icon_color=0EA5E9&bg_color=FFFFFF&border_color=E2E8F0&border_radius=12" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-G&layout=compact&langs_count=8&title_color=4F46E5&text_color=475569&bg_color=FFFFFF&border_color=E2E8F0&border_radius=12" alt="top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh-G&hide_border=true&background=00000000&stroke=8B5CF6&ring=22D3EE&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh-G&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=4F46E5&fire=0EA5E9&currStreakLabel=4F46E5&sideLabels=475569&dates=94A3B8&currStreakNum=1E293B&sideNums=1E293B&dayLabels=475569" alt="streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh-G&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh-G&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -191,6 +202,6 @@ A **gamified spatial experience** built in TypeScript — interactive, immersive
 
 > *"The best way to predict the future is to build it — then measure it, and iterate."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:5B21B6,100:0d1117&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:818CF8,100:6366F1&height=120&section=footer" alt="footer"/>
 
 </div>
