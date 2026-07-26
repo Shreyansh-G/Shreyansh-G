@@ -16,25 +16,22 @@
 
 <br/>
 
-<!-- LinkedIn badge — paste your URL here, then uncomment:
-<a href="https://www.linkedin.com/in/YOUR-HANDLE">
+<a href="https://www.linkedin.com/in/shreyansh-gupta-boy1234">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
--->
 <a href="mailto:Shreyansh.2552@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20out-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Shreyansh-G">
   <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<!-- Portfolio badge — paste your URL here, then uncomment:
-<a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://shreyansh-gupta-ml.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"/>
 </a>
--->
 
 <br/><br/>
 
+<a href="https://shreyansh-gupta-ml.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90-shreyansh--gupta--ml.netlify.app-4F46E5?style=flat" alt="portfolio link"/></a>
 <img src="https://komarev.com/ghpvc/?username=Shreyansh-G&label=Profile%20views&color=4F46E5&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/badge/Focus-AI%20Research%20Engineering-0EA5E9?style=flat" alt="focus"/>
 <img src="https://img.shields.io/badge/Based%20at-NIT%20Patna-6366F1?style=flat" alt="location"/>
@@ -59,6 +56,15 @@ class ShreyanshGupta:
 - 🌐 Comfortable across the **MERN / TypeScript** stack and the **Python ML** ecosystem (PyTorch, scikit-learn).
 - 🚀 Currently going deeper on **applied deep learning, model deployment, and reproducible ML pipelines**.
 - 🤝 Open to **research collaborations, ML internships, and applied-AI projects**.
+
+---
+
+## 📄 Publications
+
+| Venue | Paper |
+|---|---|
+| **IEEE MIGARS 2026** | Crop Phenology Classification: A Multi-Paradigm Benchmark from Traditional ML to Hybrid Mamba–Transformer Networks |
+| **MIND 2025** | Hybrid Graph–Language Embedding Framework for Citation-Aware Sentiment Analysis |
 
 ---
 
@@ -112,9 +118,9 @@ High-accuracy, **explainable, lightweight CNN** for terrain classification — d
     <td width="50%" valign="top">
 
 ### 📑 Citation-Sentiment-Analysis
-Research on **hybrid graph + language embeddings** for citation sentiment — combining structural signals from citation graphs with contextual language models.
+**MIND 2025 paper.** Fuses Node2Vec citation-graph structure with BERT sentence embeddings through a GNN — **90.56% accuracy** on the ACL Citation Sentiment Corpus, beating text-only baselines.
 
-`NLP` · `Graph ML` · `Embeddings` · `Research`
+`NLP` · `Graph ML` · `PyTorch Geometric` · `BERT`
 
 [→ View repo](https://github.com/Shreyansh-G/Citation-Sentiment-Analysis)
 
@@ -133,12 +139,12 @@ Full-stack **MERN** streaming app — TMDB API, JWT auth, search history & trail
   </td>
     <td width="50%" valign="top">
 
-### 🌐 paridhi
-A **gamified spatial experience** built in TypeScript — interactive, immersive front-end engineering.
+### 🌐 Paridhi
+Civic-infrastructure PWA with a **LangGraph** agent crawling OpenStreetMap and local news, zero-token semantic search over ChromaDB, and 2SFCA accessibility heatmaps. **India Innovates 2026 finalist.**
 
-`TypeScript` · `Interactive UI` · `WebGL/Canvas`
+`TypeScript` · `LangGraph` · `ChromaDB` · `React`
 
-[→ View repo](https://github.com/Shreyansh-G/paridhi)
+[→ View repo](https://github.com/Shreyansh-G/ParidhiAdv) · [→ Live](https://paridhi-adv.vercel.app)
 
   </td>
   </tr>
@@ -201,6 +207,8 @@ A **gamified spatial experience** built in TypeScript — interactive, immersive
 <div align="center">
 
 ### 🧩 Research the idea · Prototype it · Ship it
+
+**[→ shreyansh-gupta-ml.netlify.app](https://shreyansh-gupta-ml.netlify.app)**
 
 > *"The best way to predict the future is to build it — then measure it, and iterate."*
 
