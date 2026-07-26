@@ -8,10 +8,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:818CF8,100:0EA5E9&height=200&section=header&text=Shreyansh%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20Engineer%20%C2%B7%20Machine%20Learning%20%C2%B7%20Applied%20Deep%20Learning&descSize=18&descAlignY=60" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:818CF8,100:0EA5E9&height=200&section=header&text=Shreyansh%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20ECE%20%40%20NIT%20Patna&descSize=18&descAlignY=60" alt="header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=720&lines=AI+%2F+ML+Research+Engineer;Turning+research+ideas+into+shipped+systems;Deep+Learning+%7C+CNNs+%7C+NLP+%7C+Graph+ML;A+researcher+who+ships+%E2%80%94+not+just+publishes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=720&lines=Software+Engineer+%2F+SDE;AI+%2F+ML+Engineer;Applied+Researcher;Deep+Learning+%7C+NLP+%7C+Graph+ML;Full-Stack+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,7 +33,7 @@
 
 <a href="https://shreyansh-gupta-ml.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90-shreyansh--gupta--ml.netlify.app-4F46E5?style=flat" alt="portfolio link"/></a>
 <img src="https://komarev.com/ghpvc/?username=Shreyansh-G&label=Profile%20views&color=4F46E5&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Research%20Engineering-0EA5E9?style=flat" alt="focus"/>
+<img src="https://img.shields.io/badge/Open%20to-SDE%20%2F%20SWE%20%2F%20AI--ML-0EA5E9?style=flat" alt="focus"/>
 <img src="https://img.shields.io/badge/Based%20at-NIT%20Patna-6366F1?style=flat" alt="location"/>
 
 </div>
@@ -44,7 +44,7 @@
 
 ```python
 class ShreyanshGupta:
-    role        = "AI Research Engineer"
+    role        = ["SDE / SWE", "AI-ML Engineer", "Applied Researcher"]
     location    = "NIT Patna, India"
     focus       = ["Deep Learning", "Computer Vision", "NLP", "Graph ML"]
     engineering = ["Full-stack web", "MLOps / DevOps fundamentals"]
@@ -52,10 +52,11 @@ class ShreyanshGupta:
 ```
 
 - 🔬 I build **explainable, lightweight deep-learning systems** — from terrain-recognition CNNs to hybrid **graph + language embeddings** for citation sentiment analysis.
-- ⚙️ I'm an **AI engineer first**, but I take models the full distance: data → training → API → deployed app.
+- ⚙️ I work across **software engineering and ML** — data → training → API → deployed app, and the full stack around it.
 - 🌐 Comfortable across the **MERN / TypeScript** stack and the **Python ML** ecosystem (PyTorch, scikit-learn).
 - 🚀 Currently going deeper on **applied deep learning, model deployment, and reproducible ML pipelines**.
-- 🤝 Open to **research collaborations, ML internships, and applied-AI projects**.
+- 🏆 **Amazon ML Summer School 2025** — selected among the top **3,000 of 60,000+** applicants.
+- 🤝 Open to **SDE / SWE and AI-ML roles** — 2026 internships and 2027 new grad.
 
 ---
 
@@ -145,6 +146,18 @@ Civic-infrastructure PWA with a **LangGraph** agent crawling OpenStreetMap and l
 `TypeScript` · `LangGraph` · `ChromaDB` · `React`
 
 [→ View repo](https://github.com/Shreyansh-G/ParidhiAdv) · [→ Live](https://paridhi-adv.vercel.app)
+
+  </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🌾 Crop-Phenology
+**IEEE MIGARS 2026 paper**, sponsored by **RAC-S, ISRO**. Winter wheat growth-stage classification from Sentinel-1 SAR and Sentinel-2 optical time series over **204 fields** in Bihta, Bihar — benchmarking eight models across three modality configurations, reaching **macro-F1 0.7765**.
+
+`PyTorch` · `Mamba` · `Transformer` · `Remote Sensing` · `Time Series`
+
+[→ View repo](https://github.com/Shreyansh-G/Crop-Phenology)
 
   </td>
   </tr>
